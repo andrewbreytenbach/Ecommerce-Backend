@@ -1,4 +1,4 @@
-# E-Commerce Back-End
+# ORM E-Commerce Back-End
 
 The E-Commerce Back-End is an Express.js API that uses Sequelize to interact with a MySQL database. This project provides the fundamental architecture of e-commerce sites and is designed for businesses of all sizes.
 
