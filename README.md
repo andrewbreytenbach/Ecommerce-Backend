@@ -17,11 +17,11 @@ The E-Commerce Back-End provides a suite of services to manage categories, produ
 
 To get started with the E-Commerce Back-End, follow these steps:
 
-1. Clone this repository: git clone https://github.com/andrewbreytenbach/ecommerce-backend.git
+1. Clone this repository: git clone https://github.com/andrewbreytenbach/orm-ecommerce-backend.git
 2. Change to the project directory: cd e-commerce-back-end
 3. Install dependencies: npm install
 4. Create a .env file and add your database name, MySQL username, and MySQL password in the following format: DB_NAME='ecommerce_db' DB_USER='root' DB_PW='your_password_here'
-5. Run the database schema and seed commands: npm run schema && npm run seed
+5. Run the database schema and seed commands: source db/schema.sql && npm run seed
 6. Start the server: npm start
 7. Open Insomnia Core and test the API endpoints
 
@@ -50,7 +50,7 @@ Here is an image displaying how to delete an api endpoint in Insomnia Core.
 
 ## Walkthrough Video
 
-View a video walkthrough here: [https://www.example.com] (E-Commerce Back-End Walkthrough)
+View a video walkthrough here: [https://drive.google.com/file/d/1EdCCuNhrdmMZ69hH_AW-7AOgdEH2QhGQ/view] (E-Commerce Back-End Walkthrough)
 
 ## Contact
 
